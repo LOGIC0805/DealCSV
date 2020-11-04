@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1590636662 source:c:\users\dell\desktop\project\functions.c
+	"headers.h"
+
+1590636776 c:\users\dell\desktop\project\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590636811 source:c:\users\dell\desktop\project\main.c
+	"headers.h"
+
+1590634067 c:\users\dell\desktop\project\functions.c
+	"headers.h"
+
+1590664209 source:c:\users\dell\desktop\ljh\project\main.c
+	"headers.h"
+
+1590636776 c:\users\dell\desktop\ljh\project\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590636970 source:c:\users\dell\desktop\ljh\project\readcitiescsv.c
+	"headers.h"
+
+1590637016 source:c:\users\dell\desktop\ljh\project\readcountiescsv.c
+	"headers.h"
+
+1590636921 source:c:\users\dell\desktop\ljh\project\readprovincescsv.c
+	"headers.h"
+
+1590637153 source:c:\users\dell\desktop\ljh\project\seekcity.c
+	"headers.h"
+
+1590664294 source:c:\users\dell\desktop\ljh\project\seekcounty.c
+	"headers.h"
+
+1590637058 source:c:\users\dell\desktop\ljh\project\sortcities.c
+	"headers.h"
+
+1590637106 source:c:\users\dell\desktop\ljh\project\sortcounties.c
+	"headers.h"
+
